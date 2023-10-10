@@ -1,3 +1,6 @@
+
+![대체 텍스트](./assets/Screenshot_21.png)
+
 # shoppingcart_app
 
 A new Flutter project.
